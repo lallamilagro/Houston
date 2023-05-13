@@ -1,0 +1,41 @@
+body {
+    max-width: 70%;
+    margin: auto;
+}
+
+h1, h2, h3, h4 {
+    font-family: Arial, Verdana, sans-serif;
+    margin-top: 1.5em;
+}
+
+h1 {
+    font-size: 32px;
+}
+
+h2, h3 {
+    font-size: 28px;
+}
+
+h4 {
+    font-size: 20px;
+}
+
+ .economy > table {
+    width: 60%;
+ }
+
+table, th, td {
+    border-collapse: separate;
+    border: 1px solid black;
+}
+
+figure {
+    width: 12em;
+    float: right;
+    font-style: italic;
+    font-size: 13px;
+}
+
+figcaption {
+    text-align: center;
+}
